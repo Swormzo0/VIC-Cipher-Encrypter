@@ -1,0 +1,21 @@
+<gcjbuilder>
+  <projectType>0</projectType>
+  <buildType>1</buildType>
+  <mainClass>Encrypter</mainClass>
+  <classpathCompile>0</classpathCompile>
+  <classpathDll></classpathDll>
+  <classpathJars/>
+  <resources/>
+  <optLevel>3</optLevel>
+  <optFlags></optFlags>
+  <debugLevel>0</debugLevel>
+  <debugFlags></debugFlags>
+  <gcjMisc></gcjMisc>
+  <linkLib/>
+  <linkObj/>
+  <linkPath/>
+  <linkMisc></linkMisc>
+  <buildFolder>release</buildFolder>
+  <buildFile>Vic_Cipher_Encrypter</buildFile>
+  <buildCommand>make</buildCommand>
+</gcjbuilder>
