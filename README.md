@@ -3,6 +3,9 @@ Encrypts and decrypts between plaintext and ciphertext using a variant of the VI
 
 <img src="/img/gui-1.png" alt="Encrypter/Decrypter GUI" width="625"/>
 
+Work on this project started on January 2012 and stopped on January 2014. 
+Although the application is fully functional, no support was added for storing the data to a file.
+
 ## Prerequisites
 Java 6 or later is required to run this program.
 
